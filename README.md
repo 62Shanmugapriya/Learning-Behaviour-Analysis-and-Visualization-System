@@ -1,4 +1,4 @@
-# 📚 E-Learning Website with Adaptive Learning & Recommendation System
+# 📚 Learning Behaviour Analysis and Visualization System
 
 An intelligent e-learning platform that personalizes the learning experience by analyzing user behavior and preferences. The system predicts a learner's style (e.g., Visual, Auditory) using machine learning and recommends suitable content accordingly.
 
