@@ -34,7 +34,7 @@ An intelligent e-learning platform that personalizes the learning experience by 
 2. ✅ Install **NetBeans IDE**
 3. ✅ Create MySQL database and tables (e.g., `notes_details`, `users`, `results`, etc.)
 4. ✅ Import this project in NetBeans
-5. ✅ Run the project and access it via `http://localhost/your-project-folder`
+5. ✅ Run the project and access it via `http://localhost:8080/E_learning_website/`
 
 ---
 
